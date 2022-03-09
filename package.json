@@ -1,0 +1,19 @@
+{
+  "name": "backend_certification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsinhassan20/freecodecamp_Backend_certification.git"
+  },
+  "author": "Mohsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohsinhassan20/freecodecamp_Backend_certification/issues"
+  },
+  "homepage": "https://github.com/mohsinhassan20/freecodecamp_Backend_certification#readme"
+}
